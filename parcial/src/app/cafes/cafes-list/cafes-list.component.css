@@ -1,0 +1,13 @@
+thead {
+    background-color: #030303; 
+    color: #ffffff;            
+  }
+  
+  thead th {
+    font-weight: bold;
+  }
+  
+
+  table {
+    width: 50%;
+  }
