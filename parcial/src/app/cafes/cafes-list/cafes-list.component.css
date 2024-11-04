@@ -11,3 +11,7 @@ thead {
   table {
     width: 50%;
   }
+
+  h3 {font-family: system-ui;}
+
+  img {height: 200px;}
